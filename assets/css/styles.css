@@ -772,13 +772,6 @@ aside #submit-btn:hover {
     flex-wrap: wrap;
   }
 
-  .button {
-    height: fit-content;
-    margin: 0;
-
-    /* justify-content: ; */
-  }
-
   .about {
     padding-left: 1rem;
     padding-right: 1rem;
